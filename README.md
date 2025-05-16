@@ -25,7 +25,7 @@ Website dibuat dengan menggunakan:
 ![Hero Section](asset/hero.png)
 
 - Randomize Section
-![Randomize Section](asset/desc.png)
+![Randomize Section](asset/desk.png)
 
 - Category Section
 ![Category Section](asset/category.png)
